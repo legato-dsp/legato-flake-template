@@ -1,0 +1,5 @@
+audio {
+    sine { freq: 440.0 }
+}
+
+{ sine }
